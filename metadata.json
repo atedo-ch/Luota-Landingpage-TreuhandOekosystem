@@ -1,0 +1,6 @@
+{
+  "name": "Luota Treuhand-Ökosystem",
+  "description": "Moderne, conversionsstarke B2B-Landingpage für das digitale Schweizer Treuhand-Ökosystem der Luota AG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
